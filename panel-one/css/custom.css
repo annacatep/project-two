@@ -1,0 +1,19 @@
+.bg-gradient {
+    background: rgb(2,0,36) !important;
+    background: linear-gradient(90deg, #c9c6f4 0%, #9595f0 79%, hsl(221, 100%, 69%) 100%) !important;
+}
+.height {
+    max-height: 500px !important;
+}
+body {
+    font-family: 'Roboto Slab', serif;
+}
+div {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+ul {
+    list-style: none;
+    text-align: left;
+    margin-left: 5em;
+}
